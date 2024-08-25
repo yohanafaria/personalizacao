@@ -1,10 +1,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yohanafaria) 
 <div align = center>
-![GittHub Stats](https://github-readme-stats.vercel.app/api?username=yohanafaria&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)</div>
+![](https://github-readme-stats.vercel.app/api?username=yohanafaria&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)
+</div>
 <div align = center>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yohanafaria&theme=buefy&hide_border=false)</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yohanafaria&theme=buefy&hide_border=false)
+</div>
 <div align = center>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanafaria&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanafaria&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 # 💻 Tech Stack:
