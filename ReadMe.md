@@ -1,5 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yohanafaria) 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:yohana.mfaria@gmail.com)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9F5&height=120&section=header"/>
 <div align = center>
 <img src ="https://github-readme-stats.vercel.app/api?username=yohanafaria&theme=buefy&hide_border=false&include_all_commits=true&count_private=true">
 </div>
